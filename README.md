@@ -1,2 +1,3 @@
-# hello-world
-just another repository
+Hello, 
+
+My name is Manuel. I think squirels are cool.  
